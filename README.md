@@ -1,1 +1,1 @@
-# C-Go
+# C-Gomoku
