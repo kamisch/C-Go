@@ -150,7 +150,7 @@ void main(void)
     {
         memset(board, '0', sizeof(board));
         printf("Wecome to C Gomoku, a place where you can play a game of gomoku with your friend in the terminal.\n");
-        printf("Hints: Moves should be entered as 'uppercase letter space lowercase number', i.e 'A a' 'B c'\n");
+        printf("Hints: Moves should be entered as 'letter leteer', i.e 'A a' or 'a c'\n");
         printf("Hints: When playing enter 'stop' as move to stop the game\n");
         is_won = 0;
         player = 'x';
